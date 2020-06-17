@@ -1,0 +1,53 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Context"
+  url = "#context"
+  weight = 10
+
+[[main]]
+  name = "Topics"
+  url = "#topics"
+  weight = 20
+
+[[main]]
+  name = "Submission & Key Dates"
+  url = "#deadlines"
+  weight = 30
+
+[[main]]
+  name = "Program Committee"
+  url = "#pc"
+  weight = 40
+
+[[main]]
+  name = "Organisers"
+  url = "#organisers"
+  weight = 50
+
+[[main]]
+  name = "Partners"
+  url = "#partners"
+  weight = 60
+
+[[main]]
+  name = "Past Editions"
+  identifier = "past_editions"
+  weight = 70
+
+[[main]]
+  name = "2019 Toulouse"
+  parent = "past_editions"
+  url = "https://straps-workshop.github.io/2019/"
+
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
