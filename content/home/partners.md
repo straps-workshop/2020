@@ -8,15 +8,23 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 600  # Order that this section will appear.
 
-title = "Partners"
+title = ""
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 +++
 
 The STRAPS workshop has several partners from academia and industry:
 
-![Partners](/img/partners.png)
+<div class="container">    
+  <div class="row">
+    <div class="col-12 col-sm-auto"><a href="http://cnrs.fr/en/" target="_blank"><img src="/img/logos/logo_cnrs.png"></a></div>    
+    <div class="col-12 col-sm-auto"><a href="http://liglab.fr/" target="_blank"><img src="/img/logos/logo_lig.png"></a></div>
+    <div class="col-12 col-sm-auto"><a href="http://liris.cnrs.fr/" target="_blank"><img src="/img/logos/logo_liris.png"></a></div>    
+    <div class="col-12 col-sm-auto"><a href="http://datamedcare.com/" target="_blank"><img src="/img/logos/logo_dmc.png"></a></div>      
+    <div class="col-12 col-sm-auto"><a href="https://www.auvergnerhonealpes.fr" target="_blank"><img src="/img/logos/logo_ara.png"></a></div>        
+  </div>
+</div>

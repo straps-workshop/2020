@@ -11,6 +11,7 @@ weight = 1  # Order that this section will appear.
 title = ""
 subtitle = ""
 
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -30,33 +31,22 @@ subtitle = ""
 
   # Background image.
   image = "network.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0", "20px", "0"]
+  padding = ["150px", "0", "20px", "0"]
 
 +++
 
 # STRAPS 2020  
 ## 2nd Workshop on **S**mart Da**t**a Integ**r**ation **a**nd **P**rocessing on **S**ervice Based Environments  
-## In conjunction with [ICSOC 2020](https://icsoc-laas.fr/)
+## In conjunction with [ICSOC 2020](https://icsoc2020.connect.rs)
 
-**14th December**
-
-{{% alert note %}}
-* Submission deadline: August 16,  2020
-* Camera Ready: September 27, 2020
-* Workshops: December 14, 2020
-{{% /alert  %}}
-
-
-{{% alert warning %}}
-* Authors Registration deadline: September 27, 2020 ( firm deadline)
-{{% /alert  %}}
+**14 December**
