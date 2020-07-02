@@ -29,4 +29,5 @@ subtitle = ""
 - **Alex Palesandro**, D2SI, France
 - **Placido Antonio Souza Neto**, IFRN, Brazil
 - **Nicolas Travers**, De Vinci Research Centre, Département Informatique, Big Data et Objets Connectés, France
+- **Sami Yangui**, INSA  de Toulouse, France
 - **José Luis Zechinelli Martini**, Universidad de las Américas Puebla, México
