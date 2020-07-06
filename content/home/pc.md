@@ -26,6 +26,8 @@ subtitle = ""
 - **Carmem Hara**, Universidade Federal do Parana
 - **Fahiza Loukil**, University Jean Moulin Lyon 3, France
 - **Riadh Mokadem**, IRIT, France
+- **Frank Morvan**, IRIT, France
+- **Mourad Oussalah**, University of Nantes, France
 - **Alex Palesandro**, D2SI, France
 - **Placido Antonio Souza Neto**, IFRN, Brazil
 - **Nicolas Travers**, De Vinci Research Centre, Département Informatique, Big Data et Objets Connectés, France
