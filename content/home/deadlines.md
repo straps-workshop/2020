@@ -17,9 +17,9 @@ subtitle = ""
 
 +++
 
-We expect papers written in English between 8 and 12 Springer's LNCS pages long ([Springer LNCS format](https://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines)), including references and Illustrations. Electronic submissions in PDF format can be proposed at the conference workshops submission site.
+We expect papers written in English between 8 and 12 Springer's LNCS pages long ([Springer LNCS format](https://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines)), including references and Illustrations. Electronic submissions in PDF format can be proposed at the conference workshops [submission site](conftool.com/icsoc2020/index.php).
 
-Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will register and attend the workshop to present the paper. Registration is subject to the terms and conditions of [ICSOC](https://icsoc-laas.fr/).
+Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will register and attend the workshop to present the paper. Registration is subject to the terms and conditions of [ICSOC](https://icsoc2020.connect.rs).
 
 A selected number of papers will be invited to be submitted as extended versions to be published in an edition of Proceedings series « [Advances in Computer Science Research](https://www.atlantis-press.com/proceedings/series/acsr) ».
 
