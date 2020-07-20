@@ -27,6 +27,7 @@ subtitle = ""
 - **Fahiza Loukil**, University Jean Moulin Lyon 3, France
 - **Riadh Mokadem**, IRIT, France
 - **Frank Morvan**, IRIT, France
+- **Michael Mrissa**, InnoRenew COE, Slovenia
 - **Mourad Oussalah**, University of Nantes, France
 - **Alex Palesandro**, D2SI, France
 - **Placido Antonio Souza Neto**, IFRN, Brazil
