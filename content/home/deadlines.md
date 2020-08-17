@@ -25,7 +25,7 @@ A selected number of papers will be invited to be submitted as extended versions
 
 ##### IMPORTANT DATES
 
--   Submission deadline : August 16,  2020 
+-   Submission deadline : ~~August 16,  2020~~ --> **Extended 5th September, 2020**
 -   Camera Ready: September 27, 2020 
--   Authors Registration deadline: September 27, 2020 ( firm deadline)
+-   Authors Registration deadline: September 27, 2020 (firm deadline)
 -   Workshops: December 14, 2020
