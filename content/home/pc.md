@@ -18,13 +18,14 @@ subtitle = ""
 
 - **Ali Ackouglu**, Arizona University, USA
 - **Khalid Belhajjame**, University Paris Dauphine, LAMSADE,  France
+- **Cheyma Ben Njima**, MARS Lab, Tunisia
 - **Dalila Chiadmi**,  Mohammadia School of Engineers, Morocco
 - **Umberto Costa**, UFRN, Brazil
 - **Javier A. Espinosa Oviedo**, University Jean Moulin Lyon 3, France
 - **Luciano García Bañuelos**, Tecnológico de Monterrey, Mexico
 - **Rima Grati**, Zayed University, EAU
 - **Carmem Hara**, Universidade Federal do Parana
-- **Fahiza Loukil**, University Jean Moulin Lyon 3, France
+- **Faiza Loukil**, University Jean Moulin Lyon 3, France
 - **Riadh Mokadem**, IRIT, France
 - **Frank Morvan**, IRIT, France
 - **Michael Mrissa**, InnoRenew COE, Slovenia
