@@ -25,7 +25,25 @@ A selected number of papers will be invited to be submitted as extended versions
 
 ##### IMPORTANT DATES
 
--   Submission deadline : ~~August 16,  2020~~ --> **Extended 5th September, 2020**
--   Camera Ready: September 27, 2020 
--   Authors Registration deadline: September 27, 2020 (firm deadline)
+-   Submission deadlines : 
+Given that the general conference has gone officially online, organisers have
+authorised a longer period of submission for workshops. Therefore we have
+decided to organise **3 submission rounds** with the following deadlines:
+
+\- 1 round: 
+**Submission: 5th September** 
+Notification of results: 20th September
+\- 2 round: 
+**Submission: 30th September**
+Notification of results: 15th October
+\- 3 round: 
+**Submission: 30th October**
+Notification of results: 15th November
+
+Papers submitted in the first and second rounds, if not accepted, will have to opportunity
+to be **submitted again in the following rounds**. Authors wiil be able to integrate
+evaluation comments from reviewers to prepare a new submission.
+
+-   Camera Ready: November 2020 
+-   Authors Registration deadline: To be announced
 -   Workshops: December 14, 2020
