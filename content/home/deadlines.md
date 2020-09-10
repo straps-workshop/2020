@@ -25,7 +25,8 @@ A selected number of papers will be invited to be submitted as extended versions
 
 ##### IMPORTANT DATES
 
--   Submission deadlines : 
+Submission deadlines : 
+
 Given that the general conference has gone officially online, organisers have
 authorised a longer period of submission for workshops. Therefore we have
 decided to organise **3 submission rounds** with the following deadlines:
@@ -33,9 +34,11 @@ decided to organise **3 submission rounds** with the following deadlines:
 \- 1 round: 
 **Submission: 5th September** 
 Notification of results: 20th September
+
 \- 2 round: 
 **Submission: 30th September**
 Notification of results: 15th October
+
 \- 3 round: 
 **Submission: 30th October**
 Notification of results: 15th November
