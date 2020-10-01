@@ -33,11 +33,11 @@ decided to organise **3 submission rounds** with the following deadlines:
 
 \- 1 round: 
 **Submission: 5th September** 
-Notification of results: 20th September
+Notification of results: 1st October
 
 \- 2 round: 
-**Submission: 30th September**
-Notification of results: 15th October
+**Submission: 5th October**
+Notification of results: 25th October
 
 \- 3 round: 
 **Submission: 30th October**
