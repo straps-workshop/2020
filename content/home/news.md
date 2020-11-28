@@ -25,5 +25,5 @@ subtitle = ""
 +++
 
 {{% alert warning %}}
-## **Deadlines: [3 rounds for submission/evaluation](https://straps-workshop.github.io/#important-dates)!**
+## **Deadlines: [Camera ready and registration 30th November!](https://straps-workshop.github.io/#important-dates)!**
 {{% /alert %}}
