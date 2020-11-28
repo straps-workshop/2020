@@ -17,26 +17,41 @@
   name = "Submission & Key Dates"
   url = "#deadlines"
   weight = 30
+  
+  [[main]]
+  name = "Camera-Ready"
+  url = "#cameraready"
+  weight = 35
 
+[[main]]
+  name = "Program"
+  url = "#program"
+  weight = 40
+  
+  [[main]]
+  name = "Keynotes"
+  url = "#keynotes"
+  weight = 50
+  
 [[main]]
   name = "Program Committee"
   url = "#pc"
-  weight = 40
+  weight = 60
 
 [[main]]
   name = "Organisers"
   url = "#organisers"
-  weight = 50
+  weight = 70
 
 [[main]]
   name = "Partners"
   url = "#partners"
-  weight = 60
+  weight = 80
 
 [[main]]
   name = "Past Editions"
   identifier = "past_editions"
-  weight = 70
+  weight = 90
 
 [[main]]
   name = "2019 Toulouse"
