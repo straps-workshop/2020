@@ -18,7 +18,6 @@ subtitle = ""
 
 +++
 
-## Camera-Ready
 
 **Submission:**
 The camera-ready submission is enabled on the submission website
