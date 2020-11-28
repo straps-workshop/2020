@@ -47,6 +47,6 @@ Papers submitted in the first and second rounds, if not accepted, will have to o
 to be **submitted again in the following rounds**. Authors wiil be able to integrate
 evaluation comments from reviewers to prepare a new submission.
 
--   Camera Ready: November 2020 
--   Authors Registration deadline: To be announced
--   Workshops: December 14, 2020
+-   Camera Ready: **30 November 2020** 
+-   Authors Registration deadline: **30 November 2020**
+-   Workshops: **December 14, 2020**
