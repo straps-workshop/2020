@@ -15,10 +15,10 @@ role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: CNRS, LIG-LAFMIA labs
+- name: CNRS, LIRIS-LAFMIA labs
   #url: "http://www.cnrs.fr/en"
-#- name: LIG-LAFMIA labs    
-  #url: "http://liglab.fr/en"
+#- name: LIRIS-LAFMIA labs    
+  #url: "https://liris.cnrs.fr"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "genoveva.vargas@imag.fr"
