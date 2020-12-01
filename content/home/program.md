@@ -16,7 +16,7 @@ subtitle = ""
   columns = "2"
 
 +++
-
+**DUBAI, UAE, TIME**
 
 15:00 - 15:15 	Opening,  Genoveva Vargas-Solar
 
