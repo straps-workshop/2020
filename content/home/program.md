@@ -36,3 +36,6 @@ subtitle = ""
 
 18:30 - 18:45	On the definition of Data Regulation Risk, Guillaume Delorme, William Eymeric, Guilaine Talens, Eric Disson, Guillaume Collard, Elise Gaget
 
+18:45 - 19:00 Closing, **Genoveva Vargas-Solar**
+
+
