@@ -25,5 +25,5 @@ subtitle = ""
 +++
 
 {{% alert warning %}}
-## **Deadlines: [Camera ready and registration 30th November!](https://straps-workshop.github.io/#important-dates)!**
+## **Deadlines: [Program is ready, including Keynotes from TU-Berlin & Naver Labs](https://straps-workshop.github.io/#important-dates)!**
 {{% /alert %}}
