@@ -2,7 +2,7 @@
 
 widget = "people"  # Use the People widget
 headless = true  # This file represents a page section.
-weight = 355  # Order that this section will appear.
+weight = 455  # Order that this section will appear.
 
 
 
