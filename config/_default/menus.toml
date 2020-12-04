@@ -18,10 +18,10 @@
   url = "#deadlines"
   weight = 30
   
-  [[main]]
-  name = "Camera-Ready"
-  url = "#Camera-Ready"
-  weight = 35
+#  [[main]]
+#  name = "Camera-Ready"
+#  url = "#Camera-Ready"
+#  weight = 35
 
 [[main]]
   name = "Program"
