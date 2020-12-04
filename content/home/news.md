@@ -25,5 +25,5 @@ subtitle = ""
 +++
 
 {{% alert warning %}}
-## **Deadlines: [Program is ready, it includes Keynotes from TU-Berlin & Naver Labs](https://straps-workshop.github.io/#program)!**
+## **Program: [Have a look, it includes Keynotes from TU-Berlin & Naver Labs](https://straps-workshop.github.io/#program)!**
 {{% /alert %}}
