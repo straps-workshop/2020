@@ -22,7 +22,7 @@ subtitle = ""
 
 **Chair: Nadia Bennani**
 
-15:15 - 16:00 	**Keynote: David Bermbach, TU - Berlin, Germany**
+15:15 - 16:00 	**Keynote: Building edge and fog applications on the FogStore platform, David Bermbach, TU - Berlin, Germany**
 
 16:00 - 16:15 	XYZ Monitor: IoT Monitoring of Infrastructures using Microservices, Marc Villa Gómez, Maria-Ribera Sancho, Ernest Teniente 
 
@@ -30,12 +30,15 @@ subtitle = ""
 
 **Chair: Chirine Ghedira Guégan**
 
-17:30 - 18:15	   **Keynote: Behrooz Omidvar-Tehrani, Naver Labs, France**
+17:30 - 18:15	   **Keynote: Enabling Interactivity between Human and Artificial Intelligence, Behrooz Omidvar-Tehrani, Naver Labs, France**
 
 18:15 - 18:30 	Classifying Micro-Text Document Datasets: Application to Crisis-Related Tweets, Mehrdad Farokhnejad, Raj Ratn Pranesh, Javier-Alfonso Espinosa-Oviedo
 
 18:30 - 18:45	On the definition of Data Regulation Risk, Guillaume Delorme, William Eymeric, Guilaine Talens, Eric Disson, Guillaume Collard, Elise Gaget
 
-18:45 - 19:00 Closing, **Genoveva Vargas-Solar**
+18:45 - 19:00 Ontology Evolution using Recoverable SQL Logs, Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak
 
+19:00 - 19:15	Higher order statistical analysis in multiresolution domain -application to breast cancer histopathology, Vaishali D, Vishnu Priya P, Nithyasri Govind and Venkat Ratna Prabha K
+
+19:15 - 19:25 Closing, **Genoveva Vargas-Solar**
 
