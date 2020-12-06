@@ -27,7 +27,7 @@ subtitle = ""
                 Building edge and fog applications on the FogStore platform
                 David Bermbach, TU - Berlin, Germany
 
-16:00 - 16:15 	XYZ Monitor: IoT Monitoring of Infrastructures using Microservices, Marc Villa Gómez, Maria-Ribera Sancho, Ernest Teniente 
+16:00 - 16:15 	XYZ Monitor: IoT Monitoring of Infrastructures using Microservices, Marc Vila Gómez, Maria-Ribera Sancho, Ernest Teniente 
 
 16:15 - 17:30	Data-centred and Usage-based Security Service, Jingya Yuan, Frédérique Biennier, Nabila Bernharkat
 
@@ -42,7 +42,7 @@ subtitle = ""
 
 18:30 - 18:45	On the definition of Data Regulation Risk, Guillaume Delorme, William Eymeric, Guilaine Talens, Eric Disson, Guillaume Collard, Elise Gaget
 
-**Chair: Asad Khattak**
+**Chair: Asad Khattak, joint session with MLWSS2020**
 
 18:45 - 19:00 Ontology Evolution using Recoverable SQL Logs, Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak
 
