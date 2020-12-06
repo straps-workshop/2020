@@ -33,7 +33,10 @@ subtitle = ""
 
 **Chair: Chirine Ghedira Guégan**
 
-17:30 - 18:15	   **Keynote: Enabling Interactivity between Human and Artificial Intelligence, Behrooz Omidvar-Tehrani, Naver Labs, France**
+17:30 - 18:15	   **Keynote:**
+
+                  Enabling Interactivity between Human and Artificial Intelligence
+                  Behrooz Omidvar-Tehrani, Naver Labs, France
 
 18:15 - 18:30 	Classifying Micro-Text Document Datasets: Application to Crisis-Related Tweets, Mehrdad Farokhnejad, Raj Ratn Pranesh, Javier-Alfonso Espinosa-Oviedo
 
