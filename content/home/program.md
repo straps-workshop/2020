@@ -22,7 +22,8 @@ subtitle = ""
 
 **Chair: Nadia Bennani**
 
-15:15 - 16:00 	**Keynote: Building edge and fog applications on the FogStore platform, David Bermbach, TU - Berlin, Germany**
+15:15 - 16:00 	**Keynote: Building edge and fog applications on the FogStore platform** 
+                           **David Bermbach, TU - Berlin, Germany**
 
 16:00 - 16:15 	XYZ Monitor: IoT Monitoring of Infrastructures using Microservices, Marc Villa Gómez, Maria-Ribera Sancho, Ernest Teniente 
 
