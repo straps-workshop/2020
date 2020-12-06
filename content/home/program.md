@@ -42,6 +42,8 @@ subtitle = ""
 
 18:30 - 18:45	On the definition of Data Regulation Risk, Guillaume Delorme, William Eymeric, Guilaine Talens, Eric Disson, Guillaume Collard, Elise Gaget
 
+**Chair: Asad Khattak**
+
 18:45 - 19:00 Ontology Evolution using Recoverable SQL Logs, Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak
 
 19:00 - 19:15	Higher order statistical analysis in multiresolution domain -application to breast cancer histopathology, Vaishali D, Vishnu Priya P, Nithyasri Govind and Venkat Ratna Prabha K
