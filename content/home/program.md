@@ -48,5 +48,7 @@ subtitle = ""
 
 19:00 - 19:15	Higher order statistical analysis in multiresolution domain -application to breast cancer histopathology, Vaishali D, Vishnu Priya P, Nithyasri Govind and Venkat Ratna Prabha K
 
-19:15 - 19:25 Closing, **Genoveva Vargas-Solar**
+19:15 - 19:30   Multi-cloud Solution Design for Migrating a Portfolio of Applications to the Cloud, Asthana, Shubhi, Megahed, Aly, Iyoob, Ilyas
+
+19:30 - 19:45   Closing, **Genoveva Vargas-Solar**
 
