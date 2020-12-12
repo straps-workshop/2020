@@ -18,6 +18,9 @@ subtitle = ""
 +++
 **DUBAI, UAE, TIME (GMT+4)**
 
+The zoom link to the session is: https://grenoble-inp.zoom.us/j/97273673071 
+Password: straps2020 
+
 15:00 - 15:15 	Opening,  **Genoveva Vargas-Solar**
 
 **Chair: Nadia Bennani**
