@@ -35,6 +35,8 @@ Password: straps2020
 
 16:15 - 16:30	Data-centred and Usage-based Security Service, Jingya Yuan, Frédérique Biennier, Nabila Bernharkat
 
+16:30 - 16:45   Multi-cloud Solution Design for Migrating a Portfolio of Applications to the Cloud, Asthana, Shubhi, Megahed, Aly, Iyoob, Ilyas
+
 **Chair: Chirine Ghedira Guégan**
 
 17:00 - 17:45	   **Keynote:**
@@ -48,11 +50,9 @@ Password: straps2020
 
 **Chair: Asad Khattak, joint session with MLWSS2020**
 
-18:15 - 18:30 Ontology Evolution using Recoverable SQL Logs, Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak
+18:30 - 18:45 Ontology Evolution using Recoverable SQL Logs, Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak
 
-18:30 - 18:45	Higher order statistical analysis in multiresolution domain -application to breast cancer histopathology, Vaishali D, Vishnu Priya P, Nithyasri Govind and Venkat Ratna Prabha K
-
-18:45 - 19:00   Multi-cloud Solution Design for Migrating a Portfolio of Applications to the Cloud, Asthana, Shubhi, Megahed, Aly, Iyoob, Ilyas
+18:45 - 19:00	Higher order statistical analysis in multiresolution domain -application to breast cancer histopathology, Vaishali D, Vishnu Priya P, Nithyasri Govind and Venkat Ratna Prabha K
 
 19:00 - 19:15   Closing, **Genoveva Vargas-Solar**
 
