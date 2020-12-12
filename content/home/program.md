@@ -33,26 +33,26 @@ Password: straps2020
 
 16:00 - 16:15 	XYZ Monitor: IoT Monitoring of Infrastructures using Microservices, Marc Vila Gómez, Maria-Ribera Sancho, Ernest Teniente 
 
-16:15 - 17:30	Data-centred and Usage-based Security Service, Jingya Yuan, Frédérique Biennier, Nabila Bernharkat
+16:15 - 16:30	Data-centred and Usage-based Security Service, Jingya Yuan, Frédérique Biennier, Nabila Bernharkat
 
 **Chair: Chirine Ghedira Guégan**
 
-17:30 - 18:15	   **Keynote:**
+17:00 - 17:45	   **Keynote:**
 
                   Enabling Interactivity between Human and Artificial Intelligence
                   Behrooz Omidvar-Tehrani, Naver Labs, France
 
-18:15 - 18:30 	Classifying Micro-Text Document Datasets: Application to Crisis-Related Tweets, Mehrdad Farokhnejad, Raj Ratn Pranesh, Javier-Alfonso Espinosa-Oviedo
+17:45 - 18:00 	Classifying Micro-Text Document Datasets: Application to Crisis-Related Tweets, Mehrdad Farokhnejad, Raj Ratn Pranesh, Javier-Alfonso Espinosa-Oviedo
 
-18:30 - 18:45	On the definition of Data Regulation Risk, Guillaume Delorme, William Eymeric, Guilaine Talens, Eric Disson, Guillaume Collard, Elise Gaget
+18:00 - 18:15	On the definition of Data Regulation Risk, Guillaume Delorme, William Eymeric, Guilaine Talens, Eric Disson, Guillaume Collard, Elise Gaget
 
 **Chair: Asad Khattak, joint session with MLWSS2020**
 
-18:45 - 19:00 Ontology Evolution using Recoverable SQL Logs, Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak
+18:15 - 18:30 Ontology Evolution using Recoverable SQL Logs, Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak
 
-19:00 - 19:15	Higher order statistical analysis in multiresolution domain -application to breast cancer histopathology, Vaishali D, Vishnu Priya P, Nithyasri Govind and Venkat Ratna Prabha K
+18:30 - 18:45	Higher order statistical analysis in multiresolution domain -application to breast cancer histopathology, Vaishali D, Vishnu Priya P, Nithyasri Govind and Venkat Ratna Prabha K
 
-19:15 - 19:30   Multi-cloud Solution Design for Migrating a Portfolio of Applications to the Cloud, Asthana, Shubhi, Megahed, Aly, Iyoob, Ilyas
+18:45 - 19:00   Multi-cloud Solution Design for Migrating a Portfolio of Applications to the Cloud, Asthana, Shubhi, Megahed, Aly, Iyoob, Ilyas
 
-19:30 - 19:45   Closing, **Genoveva Vargas-Solar**
+19:00 - 19:15   Closing, **Genoveva Vargas-Solar**
 
