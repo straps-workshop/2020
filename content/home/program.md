@@ -31,56 +31,25 @@ Password: straps2020
                 Building edge and fog applications on the FogStore platform
                 David Bermbach, TU - Berlin, Germany
 
-16:00 - 16:15 	XYZ Monitor: IoT Monitoring of Infrastructures using Microservices, Marc Vila Gómez, Maria-Ribera Sancho, Ernest Teniente
-                
-                Video: https://youtu.be/vCnW-zm672I
-                
-                Slides: https://drive.google.com/file/d/1yLru4LE6_biKpMzG5AAC-53FbLk5JQZL/view?usp=sharing
+16:00 - 16:15 **XYZ Monitor: IoT Monitoring of Infrastructures using Microservices**, Marc Vila Gómez, Maria-Ribera Sancho, Ernest Teniente ([video](https://youtu.be/vCnW-zm672I), [slides](https://drive.google.com/file/d/1yLru4LE6_biKpMzG5AAC-53FbLk5JQZL/view?usp=sharing))
 
-16:15 - 16:30	Data-centred and Usage-based Security Service, Jingya Yuan, Frédérique Biennier, Nabila Bernharkat
-              
-              Video:https://youtu.be/wlHvH3a8FWI
-              
-              Slides: https://drive.google.com/file/d/1bRP_9UlOwUvIK4T0FzAMeqQ7TQ0vYsuR/view?usp=sharing
+16:15 - 16:30	**Data-centred and Usage-based Security Service**, Jingya Yuan, Frédérique Biennier, Nabila Bernharkat ([video](https://youtu.be/wlHvH3a8FWI), [slides](https://drive.google.com/file/d/1bRP_9UlOwUvIK4T0FzAMeqQ7TQ0vYsuR/view?usp=sharing))
 
-16:30 - 16:45   Multi-cloud Solution Design for Migrating a Portfolio of Applications to the Cloud, Asthana, Shubhi, Megahed, Aly, Iyoob, Ilyas
-                
-                Video: https://youtu.be/IzGgcyWx05M
-                
-                Slides: https://drive.google.com/file/d/1O7MN57tUUZU7b_71CgDWYwcWoYHLkX1D/view?usp=sharing
+16:30 - 16:45 **Multi-cloud Solution Design for Migrating a Portfolio of Applications to the Cloud**, Asthana, Shubhi, Megahed, Aly, Iyoob, Ilyas ([video](https://youtu.be/IzGgcyWx05M), [slides](https://drive.google.com/file/d/1O7MN57tUUZU7b_71CgDWYwcWoYHLkX1D/view?usp=sharing))
 
 **Chair: Chirine Ghedira Guégan**
 
-17:00 - 17:45	   **Keynote:**
+17:00 - 17:45	**Keynote: Enabling Interactivity between Human and Artificial Intelligence**, Behrooz Omidvar-Tehrani, Naver Labs, France ([slides](https://www.slideshare.net/genovevavargas/talk-straps-interactivity-between-human-and-artificial-intelligence))
 
-                  Enabling Interactivity between Human and Artificial Intelligence
-                  Behrooz Omidvar-Tehrani, Naver Labs, France 
-                  
-                  Slides: https://www.slideshare.net/genovevavargas/talk-straps-interactivity-between-human-and-artificial-intelligence
+17:45 - 18:00 **Classifying Micro-Text Document Datasets: Application to Crisis-Related Tweets**, Mehrdad Farokhnejad, Raj Ratn Pranesh, Javier-Alfonso Espinosa-Oviedo ([video](https://youtu.be/Clb6JzBJzIU), [slides](https://drive.google.com/file/d/1yU6aBLKBbJ9wHkbVXZLoEk2LxsjFGisj/view?usp=sharing))
 
-17:45 - 18:00 	Classifying Micro-Text Document Datasets: Application to Crisis-Related Tweets, Mehrdad Farokhnejad, Raj Ratn Pranesh, Javier-Alfonso Espinosa-Oviedo
-                
-                Video: https://youtu.be/Clb6JzBJzIU
-                
-                Slides: https://drive.google.com/file/d/1yU6aBLKBbJ9wHkbVXZLoEk2LxsjFGisj/view?usp=sharing
-
-18:00 - 18:15	On the definition of Data Regulation Risk, Guillaume Delorme, William Eymeric, Guilaine Talens, Eric Disson, Guillaume Collard, Elise Gaget
-              
-              Video: https://youtu.be/vCnW-zm672I
-              
-              Slides: https://drive.google.com/file/d/1mMA8Ez4WabRIHT8C4oT1oyULCvQ863Rw/view?usp=sharing
+18:00 - 18:15	**On the definition of Data Regulation Risk**, Guillaume Delorme, William Eymeric, Guilaine Talens, Eric Disson, Guillaume Collard, Elise Gaget ([video](https://youtu.be/vCnW-zm672I), [slides](https://drive.google.com/file/d/1mMA8Ez4WabRIHT8C4oT1oyULCvQ863Rw/view?usp=sharing))
 
 **Chair: Asad Khattak, joint session with MLWSS2020**
 
-18:30 - 18:45 Ontology Evolution using Recoverable SQL Logs, Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak
-              
-              Video: https://youtu.be/eqaBN1dTsiE
-              
-              Slides: https://drive.google.com/file/d/1cuvtyGyvMSBzYQ4jXafpUbTX4Dt1wfJY/view?usp=sharing
+18:30 - 18:45 **Ontology Evolution using Recoverable SQL Logs**, Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak ([video](https://youtu.be/eqaBN1dTsiE, [slides](https://drive.google.com/file/d/1cuvtyGyvMSBzYQ4jXafpUbTX4Dt1wfJY/view?usp=sharing))
 
-18:45 - 19:00	Higher order statistical analysis in multiresolution domain -application to breast cancer histopathology, Vaishali D, Vishnu Priya P, Nithyasri Govind and Venkat Ratna Prabha K
-              
-              Video: https://youtu.be/H9ulcN9uP9A
+18:45 - 19:00	**Higher order statistical analysis in multiresolution domain-application to breast cancer histopathology**, Vaishali D, Vishnu Priya P, Nithyasri Govind and Venkat Ratna Prabha K ([video](https://youtu.be/H9ulcN9uP9A))
               
 
 19:00 - 19:15   Closing, **Genoveva Vargas-Solar**
