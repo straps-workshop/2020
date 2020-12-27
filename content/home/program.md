@@ -46,7 +46,7 @@ Password: straps2020
 **Chair: Asad Khattak, joint session with MLWSS2020**
 |Hour  |  |
 |---|---|
-|18:30-18:45 | **Ontology Evolution using Recoverable SQL Logs** </br> Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak </br> [video](https://youtu.be/eqaBN1dTsiE, [slides](https://drive.google.com/file/d/1cuvtyGyvMSBzYQ4jXafpUbTX4Dt1wfJY/view?usp=sharing)|
+|18:30-18:45 | **Ontology Evolution using Recoverable SQL Logs** </br> Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak </br> [video](https://youtu.be/eqaBN1dTsiE), [slides](https://drive.google.com/file/d/1cuvtyGyvMSBzYQ4jXafpUbTX4Dt1wfJY/view?usp=sharing)|
 |18:45-19:00 | **Higher order statistical analysis in multiresolution domain-application to breast cancer histopathology** </br> Vaishali D, Vishnu Priya P, Nithyasri Govind and Venkat Ratna Prabha K </br> [video](https://youtu.be/H9ulcN9uP9A)
 |19:00-19:15 | Closing, **Genoveva Vargas-Solar** |
 
