@@ -30,6 +30,16 @@ Password: straps2020
 
                 Building edge and fog applications on the FogStore platform
                 David Bermbach, TU - Berlin, Germany
+                
+                
+                
+               
+<pre>
+15:15 - 16:00 	**Keynote:** 
+                Building edge and fog applications on the FogStore platform
+                David Bermbach, TU - Berlin, Germany
+</pre>
+                
 
 16:00 - 16:15 **XYZ Monitor: IoT Monitoring of Infrastructures using Microservices**, Marc Vila Gómez, Maria-Ribera Sancho, Ernest Teniente ([video](https://youtu.be/vCnW-zm672I), [slides](https://drive.google.com/file/d/1yLru4LE6_biKpMzG5AAC-53FbLk5JQZL/view?usp=sharing))
 
