@@ -56,7 +56,7 @@ Password: straps2020
                   Enabling Interactivity between Human and Artificial Intelligence
                   Behrooz Omidvar-Tehrani, Naver Labs, France 
                   
-                  Slides: 
+                  Slides: https://www.slideshare.net/genovevavargas/talk-straps-interactivity-between-human-and-artificial-intelligence
 
 17:45 - 18:00 	Classifying Micro-Text Document Datasets: Application to Crisis-Related Tweets, Mehrdad Farokhnejad, Raj Ratn Pranesh, Javier-Alfonso Espinosa-Oviedo
                 
