@@ -26,17 +26,13 @@ Password: straps2020
 
 **Chair: Nadia Bennani**
 
-15:15 - 16:00 	**Keynote:** 
-
-                Building edge and fog applications on the FogStore platform
-                David Bermbach, TU - Berlin, Germany
-                
-                
-                
-               
-|Time| Talk |
+|  |  |
 |---|---|
-|15:15 - 16:00 | **Keynote:** </br> Building edge and fog applications on the FogStore platform </br>David Bermbach, TU - Berlin, Germany|
+|15:15 - 16:00 | **Keynote:** Building edge and fog applications on the FogStore platform </br>David Bermbach, TU - Berlin, Germany|
+|16:00 - 16:15 | **XYZ Monitor: IoT Monitoring of Infrastructures using Microservices** </br> Marc Vila Gómez, Maria-Ribera Sancho, Ernest Teniente </br>[video](https://youtu.be/vCnW-zm672I), [slides](https://drive.google.com/file/d/1yLru4LE6_biKpMzG5AAC-53FbLk5JQZL/view?usp=sharing)|
+|16:15 - 16:30 | **Data-centred and Usage-based Security Service** </br>Jingya Yuan, Frédérique Biennier, Nabila Bernharkat </br>[video](https://youtu.be/wlHvH3a8FWI), [slides](https://drive.google.com/file/d/1bRP_9UlOwUvIK4T0FzAMeqQ7TQ0vYsuR/view?usp=sharing)|
+|16:30 - 16:45 | **Multi-cloud Solution Design for Migrating a Portfolio of Applications to the Cloud**, </br>Asthana, Shubhi, Megahed, Aly, Iyoob, Ilyas </br>[video](https://youtu.be/IzGgcyWx05M), [slides](https://drive.google.com/file/d/1O7MN57tUUZU7b_71CgDWYwcWoYHLkX1D/view?usp=sharing)|
+
 
 
 
