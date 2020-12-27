@@ -26,6 +26,8 @@ Password: straps2020
 |---|---|
 |15:00-15:15 | Opening, **Genoveva Vargas-Solar** |
 
+---
+
 **Chair: Nadia Bennani**
 |Hour  |  |
 |---|---|
