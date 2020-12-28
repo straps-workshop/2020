@@ -22,22 +22,19 @@ The zoom link to the session is: https://grenoble-inp.zoom.us/j/97273673071
 
 Password: straps2020 
 
-|Hour  |  |
+|  |  |
 |---|---|
 |15:00-15:15 | Opening, **Genoveva Vargas-Solar** |
 
----
-
-**Chair: Nadia Bennani**
-|Hour  |  |
+#### Chair: Nadia Bennani
+|  |  |
 |---|---|
 |15:15-16:00 | **Keynote** </br> Building edge and fog applications on the FogStore platform </br>David Bermbach, TU-Berlin, Germany|
 |16:00-16:15 | **XYZ Monitor: IoT Monitoring of Infrastructures using Microservices** </br> Marc Vila Gómez, Maria-Ribera Sancho, Ernest Teniente </br>[video](https://youtu.be/vCnW-zm672I), [slides](https://drive.google.com/file/d/1yLru4LE6_biKpMzG5AAC-53FbLk5JQZL/view?usp=sharing)|
 |16:15-16:30 | **Data-centred and Usage-based Security Service** </br>Jingya Yuan, Frédérique Biennier, Nabila Bernharkat </br>[video](https://youtu.be/wlHvH3a8FWI), [slides](https://drive.google.com/file/d/1bRP_9UlOwUvIK4T0FzAMeqQ7TQ0vYsuR/view?usp=sharing)|
 |16:30-16:45 | **Multi-cloud Solution Design for Migrating a Portfolio of Applications to the Cloud** </br>Asthana, Shubhi, Megahed, Aly, Iyoob, Ilyas </br>[video](https://youtu.be/IzGgcyWx05M), [slides](https://drive.google.com/file/d/1O7MN57tUUZU7b_71CgDWYwcWoYHLkX1D/view?usp=sharing)|
 
-
-**Chair: Chirine Ghedira Guégan**
+#### Chair: Chirine Ghedira Guégan
 |Hour  |  |
 |---|---|
 |17:00-17:45 | **Keynote** </br> Enabling Interactivity between Human and Artificial Intelligence </br> Behrooz Omidvar-Tehrani, Naver Labs, France </br> [slides](https://www.slideshare.net/genovevavargas/talk-straps-interactivity-between-human-and-artificial-intelligence)|
@@ -45,7 +42,7 @@ Password: straps2020
 |18:00-18:15 | **On the definition of Data Regulation Risk** </br> Guillaume Delorme, William Eymeric, Guilaine Talens, Eric Disson, Guillaume Collard, Elise Gaget </br> [video](https://youtu.be/vCnW-zm672I), [slides](https://drive.google.com/file/d/1mMA8Ez4WabRIHT8C4oT1oyULCvQ863Rw/view?usp=sharing)
 
 
-**Chair: Asad Khattak, joint session with MLWSS2020**
+#### Chair: Asad Khattak, joint session with MLWSS2020
 |Hour  |  |
 |---|---|
 |18:30-18:45 | **Ontology Evolution using Recoverable SQL Logs** </br> Awais Yousaf, Kifayat Ullah Khan and Asad Masood Khattak </br> [video](https://youtu.be/eqaBN1dTsiE), [slides](https://drive.google.com/file/d/1cuvtyGyvMSBzYQ4jXafpUbTX4Dt1wfJY/view?usp=sharing)|
