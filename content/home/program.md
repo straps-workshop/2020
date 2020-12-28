@@ -35,3 +35,4 @@ subtitle = ""
 |18:45-19:00 | **Higher order statistical analysis in multiresolution domain-application to breast cancer histopathology** </br> Vaishali D, Vishnu Priya P, Nithyasri Govind and Venkat Ratna Prabha K </br> [video](https://youtu.be/H9ulcN9uP9A)
 |19:00-19:15 | Closing, **Genoveva Vargas-Solar** |
 
+
