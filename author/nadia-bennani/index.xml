@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nadia Bennani | STRAPS 2020</title>
+    <link>https://straps-workshop.github.io/author/nadia-bennani/</link>
+      <atom:link href="https://straps-workshop.github.io/author/nadia-bennani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nadia Bennani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <image>
+      <url>https://straps-workshop.github.io/author/nadia-bennani/avatar_hu25d333fcded103db2f52f7476cb1420a_16960_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Nadia Bennani</title>
+      <link>https://straps-workshop.github.io/author/nadia-bennani/</link>
+    </image>
+    
+  </channel>
+</rss>
