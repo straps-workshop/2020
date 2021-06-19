@@ -20,5 +20,6 @@ jobs:
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
         HUGO_VERSION: 0.68.3
-        TARGET_REPO: straps-workshop/straps-workshop.github.io
+        TARGET_REPO: straps-workshop/2020
+        TARGET_BRANCH: gh-pages
         TOKEN: ${{ secrets.PERSONAL_TOKEN }}
